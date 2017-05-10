@@ -14,7 +14,7 @@ Write down a shell script that determines the total number of students who fail 
 
 1306850011	70	55                                                                                                                         
 1306850012	9	  82                                                                                                                         
-1306850013	68	60
+1306850013	68	60                                                                                                                         
 …
 
 First column is student ID, second column is midterm result and the third one is final result. Sample run for this script is like :
