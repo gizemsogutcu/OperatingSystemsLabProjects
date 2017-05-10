@@ -1,5 +1,4 @@
 # OperatingSystemsLabProjects
-There are 2 project in linux bash script.
 In Project1;
 
 You are asked to build your own “wc” script that takes a text file as input and reports total number of letters, words and lines in this file. Your script should take two arguments. First one is filename. Second one is one of three letters “-h”, “-k” or “-s” which stand for numbers of letters, words and lines respectively. A sample run of this script is seen below.
