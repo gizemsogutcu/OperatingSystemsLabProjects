@@ -13,7 +13,7 @@ In Project2;
 Write down a shell script that determines the total number of students who fail in a course by using BDS (Bağıl Değerlendirme Sistemi). In BDS, a student has 3 marks: midterm, final and average (%50 of midterm, %50 of final). This data is to be read from “notlar.txt” of which some rows are given below.
 
 1306850011	70	55                                                                                                                         
-1306850012	9	  82
+1306850012	9	  82                                                                                                                         
 1306850013	68	60
 …
 
